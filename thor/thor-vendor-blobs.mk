@@ -173,6 +173,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/thor/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/amazon/thor/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/amazon/thor/proprietary/lib/libril-lab126qmi.so:system/lib/libril-lab126qmi.so \
+    vendor/amazon/thor/proprietary/lib/libwpa_client.so:system/lib/libwpa_client.so \
     vendor/amazon/thor/proprietary/vendor/lib/drm/libdrmprplugin.so:system/vendor/lib/drm/libdrmprplugin.so \
     vendor/amazon/thor/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/amazon/thor/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
