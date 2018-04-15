@@ -150,8 +150,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/thor/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/amazon/thor/proprietary/etc/ReceiverFilterPolicy.xml:system/etc/ReceiverFilterPolicy.xml \
     vendor/amazon/thor/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/amazon/thor/proprietary/etc/sec_config:system/etc/sec_config \
-    vendor/amazon/thor/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/amazon/thor/proprietary/etc/usf_post_boot.sh:system/etc/usf_post_boot.sh \
     vendor/amazon/thor/proprietary/etc/usf_settings.sh:system/etc/usf_settings.sh \
     vendor/amazon/thor/proprietary/etc/vendor_service.conf:system/etc/vendor_service.conf \

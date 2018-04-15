@@ -150,8 +150,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/apollo/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/amazon/apollo/proprietary/etc/ReceiverFilterPolicy.xml:system/etc/ReceiverFilterPolicy.xml \
     vendor/amazon/apollo/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/amazon/apollo/proprietary/etc/sec_config:system/etc/sec_config \
-    vendor/amazon/apollo/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/amazon/apollo/proprietary/etc/usf_post_boot.sh:system/etc/usf_post_boot.sh \
     vendor/amazon/apollo/proprietary/etc/usf_settings.sh:system/etc/usf_settings.sh \
     vendor/amazon/apollo/proprietary/etc/vendor_service.conf:system/etc/vendor_service.conf \
